@@ -11,12 +11,12 @@ from urllib3.exceptions import InsecureRequestWarning
 
 #____VARIABLES_TO_CHANGE_________
 #################################
-user="[user]"					#
-password="[password]"			#
-MGMT_IP="[Management_IP]"		#
-port="443"						#
-Policy_name="Standard"			#
-Layer_name="Network"			#
+user="[user]"					
+password="[password]"			
+MGMT_IP="[Management_IP]"		
+port="443"						
+Policy_name="Standard"			
+Layer_name="Network"			
 #################################
 
 # Function to create the Title
