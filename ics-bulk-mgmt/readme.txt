@@ -15,6 +15,8 @@ Workflow of the program:
 
 - The user copy that file to his management
 
+- Close all opened smartDashboards
+
 - The user import the new ICS applications and rules to his management executing:
 
 	# dbedit -local -f dbedit-input.txt
